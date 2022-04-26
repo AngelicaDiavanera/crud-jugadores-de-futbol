@@ -1,0 +1,13 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Luis Diaz",
+      "age": 25,
+      "team": "Liverpool",
+      "shirtColor": "Vino tinto",
+      "birthDate": "1997-04-15",
+      "description": "Es un jugador colombiano muy destacado por su manera de lanzar pases"
+    }
+  ]
+}
